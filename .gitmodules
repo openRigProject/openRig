@@ -1,0 +1,12 @@
+[submodule "openRigOS"]
+	path = openRigOS
+	url = ./openRigOS
+[submodule "openrig_core"]
+	path = openrig_core
+	url = ./openrig_core
+[submodule "openRigConsole"]
+	path = openRigConsole
+	url = ./openRigConsole
+[submodule "openRigMobile"]
+	path = openRigMobile
+	url = ./openRigMobile
