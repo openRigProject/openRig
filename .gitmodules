@@ -12,4 +12,4 @@
 	url = git@github.com:openRigProject/openRigMobile.git
 [submodule "openRigWeb"]
 	path = openRigWeb
-	url = git@github.com:openRigProject/openRigWeb.git
+	url = git@github.com:openRigProject/openRigProject.github.io.git
