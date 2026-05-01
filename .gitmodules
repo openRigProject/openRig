@@ -10,3 +10,6 @@
 [submodule "openRigMobile"]
 	path = openRigMobile
 	url = ./openRigMobile
+[submodule "openRigWeb"]
+	path = openRigWeb
+	url = ./openRigWeb
