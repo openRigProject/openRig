@@ -1,15 +1,15 @@
 [submodule "openRigOS"]
 	path = openRigOS
-	url = ./openRigOS
+	url = git@github.com:openRigProject/openRigOS.git
 [submodule "openrig_core"]
 	path = openrig_core
-	url = ./openrig_core
+	url = git@github.com:openRigProject/openrig_core.git
 [submodule "openRigConsole"]
 	path = openRigConsole
-	url = ./openRigConsole
+	url = git@github.com:openRigProject/openRigConsole.git
 [submodule "openRigMobile"]
 	path = openRigMobile
-	url = ./openRigMobile
+	url = git@github.com:openRigProject/openRigMobile.git
 [submodule "openRigWeb"]
 	path = openRigWeb
-	url = ./openRigWeb
+	url = git@github.com:openRigProject/openRigWeb.git
