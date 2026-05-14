@@ -13,3 +13,6 @@
 [submodule "openRigWeb"]
 	path = openRigWeb
 	url = git@github.com:openRigProject/openRigProject.github.io.git
+[submodule "openRigHat"]
+	path = openRigHat
+	url = git@github.com:openRigProject/openRigHat.git
