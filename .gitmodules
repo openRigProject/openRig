@@ -19,3 +19,6 @@
 [submodule "openRigDVStick"]
 	path = openRigDVStick
 	url = git@github.com:openRigProject/openRigDVStick.git
+[submodule "openRigReflector"]
+	path = openRigReflector
+	url = git@github.com:openRigProject/openRigReflector.git
