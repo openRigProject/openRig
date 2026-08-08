@@ -22,3 +22,6 @@
 [submodule "openRigReflector"]
 	path = openRigReflector
 	url = git@github.com:openRigProject/openRigReflector.git
+[submodule "openRigMetrics"]
+	path = openRigMetrics
+	url = git@github.com:openRigProject/openRigMetrics.git
